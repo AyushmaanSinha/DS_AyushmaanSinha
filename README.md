@@ -22,6 +22,7 @@ Web3DS_AyushmaanSinha/
 - Generated CSV outputs are saved to `csv_files/`. If a generated filename collides with an existing file, the notebook appends a timestamp to the filename so the input file is never replaced.
 - Generated image outputs are saved to `outputs/`.
 - The Colab notebook `notebooks/ds_AyushmaanSinha.ipynb` is the main entry point.
+- The Python File `notebooks/ ds_ayushmaansinha.py` is the runnable script that contains all the Python code from the notebook.
 
 ## How to run in Colab
 1. Upload your input CSVs into `/content/csv_files/` (create the folder in the Files pane).
