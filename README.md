@@ -2,8 +2,8 @@
 
 This repository enforces safe I/O rules so that **input files are never overwritten**.
 
-It does not contain the '**historical_data.csv**'(45.3MB) file as GitHub supports maximum file size of 25MB, nevertheless the file does exist in the Google Colab Sheet
-Link to the Sheet : 
+It does not contain the `historical_data.csv`(45.3MB) file as GitHub supports maximum file size of 25MB, nevertheless the file does exist in the Google Colab Sheet
+Link to the Sheet : https://colab.research.google.com/drive/1iCLmjxag-2txiZKMw3ry8Cg-hCZiDCWM?usp=sharing
 
 ## Structure
 
@@ -13,6 +13,7 @@ Web3DS_AyushmaanSinha/
 ├── outputs/             <-- contains generated image outputs (PNGs)
 ├── notebooks/
 │   └── ds_AyushmaanSinha.ipynb
+│   └── ds_ayushmaansinha.py
 ├── README.md
 └── ds_report.pdf
 ```
